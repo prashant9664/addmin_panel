@@ -1,0 +1,13 @@
+{
+    "user":[
+        {
+           "fast name":"sudarshan",
+           "last name":"bhalala",
+           "password":"1234",
+           "gender":"male",
+           "action":"delete",
+           "image":"image",
+           "text":"scfrex frfefx" 
+        }
+    ]
+}
